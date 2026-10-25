@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "PR_6.1.2\\x64\\Debug\\Header.obj",
+            "outputs": [
+                "PR_6.1.2\\x64\\Debug\\Header.h.obj.dt.module.json",
+                "PR_6.1.2\\x64\\Debug\\Header.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
